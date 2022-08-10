@@ -1,0 +1,10 @@
+REACT
+Introduction
+  Programming Pattern:
+    function component
+    class component
+  
+  this keyword isn't available in functional component. It is available in class component. 
+
+  npx => node package executor.
+  
