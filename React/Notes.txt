@@ -1,0 +1,4 @@
+There are tow ways to pass data to child component in React:
+1. props: With props we can pass data from parent component to the child component
+
+2. context: 

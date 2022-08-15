@@ -1,2 +1,4 @@
 Dev dependencies:
-  dev dependencies are for the user not for the server so server doesn't install dev dependencies. 
+dev dependencies are for the user not for the server so server doesn't install dev dependencies.
+dotenv
+we put our secret file in env. We never push env file in github.
